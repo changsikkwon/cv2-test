@@ -1,0 +1,18 @@
+appdirs==1.4.4
+asgiref==3.3.4
+attrs @ file:///tmp/build/80754af9/attrs_1604765588209/work
+black==19.10b0
+certifi==2020.12.5
+click @ file:///home/linux1/recipes/ci/click_1610990599742/work
+Django==3.2
+mypy-extensions==0.4.1
+numpy==1.20.2
+opencv-contrib-python==4.5.1.48
+opencv-python==4.5.1.48
+pathspec==0.7.0
+pytz==2021.1
+regex @ file:///opt/concourse/worker/volumes/live/13d4e916-518e-4e28-5d3c-f9c853fd471c/volume/regex_1617569700425/work
+sqlparse==0.4.1
+toml @ file:///tmp/build/80754af9/toml_1616166611790/work
+typed-ast @ file:///opt/concourse/worker/volumes/live/15e6a700-fafa-4d5e-4ab5-709c85217864/volume/typed-ast_1610484566070/work
+typing-extensions @ file:///home/ktietz/src/ci_mi/typing_extensions_1612808209620/work
